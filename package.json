@@ -1,0 +1,26 @@
+{
+  "name": "geobuf-example",
+  "version": "1.0.0",
+  "description": "使用geobuf配合node server处理pbf数据",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perchecc/geobuf-awesome.git"
+  },
+  "keywords": [
+    "geobuf",
+    "pbf",
+    "ol",
+    "parcel"
+  ],
+  "author": "perchecc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/perchecc/geobuf-awesome/issues"
+  },
+  "homepage": "https://github.com/perchecc/geobuf-awesome#readme"
+}
+

@@ -1,6 +1,4 @@
-# geobuf-awesome
-
-geobuf 解析 pbf 数据
+# geobuf 解析 pbf 数据
 
 ### 注意
 

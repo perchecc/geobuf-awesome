@@ -1,0 +1,35 @@
+{
+  "name": "geobuf-example",
+  "version": "1.0.0",
+  "description": "a geobuf example",
+  "source": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel"
+  },
+  "author": "perchecc",
+  "license": "MIT",
+  "dependencies": {
+    "geobuf": "^3.0.1",
+    "ol": "^5.3.1",
+    "pbf": "^3.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perchecc/geobuf-awesome.git"
+  },
+  "keywords": [
+    "geobuf",
+    "parcel",
+    "pbf",
+    "ol"
+  ],
+  "bugs": {
+    "url": "https://github.com/perchecc/geobuf-awesome/issues"
+  },
+  "homepage": "https://github.com/perchecc/geobuf-awesome#readme"
+}
